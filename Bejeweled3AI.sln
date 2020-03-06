@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled3AI.UI", "Bejeweled3AI.UI\Bejeweled3AI.UI.csproj", "{85C223EB-CE63-4847-998D-43C2FC2302DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled3AI.TemplateGenertor", "Bejeweled3AI.TemplateGenertor\Bejeweled3AI.TemplateGenertor.csproj", "{3AE5B5DF-24CA-481F-8CE8-5604932DCFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled3AI.Common", "Bejeweled3AI.Common\Bejeweled3AI.Common.csproj", "{B58DD181-C758-4F63-906E-E493A7A4347A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled3AI.Debug", "Bejeweled3AI.Debug\Bejeweled3AI.Debug.csproj", "{AC8E567F-BF94-47A6-ABF1-59BF684D0471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C223EB-CE63-4847-998D-43C2FC2302DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C223EB-CE63-4847-998D-43C2FC2302DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C223EB-CE63-4847-998D-43C2FC2302DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C223EB-CE63-4847-998D-43C2FC2302DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE5B5DF-24CA-481F-8CE8-5604932DCFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE5B5DF-24CA-481F-8CE8-5604932DCFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE5B5DF-24CA-481F-8CE8-5604932DCFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE5B5DF-24CA-481F-8CE8-5604932DCFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58DD181-C758-4F63-906E-E493A7A4347A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58DD181-C758-4F63-906E-E493A7A4347A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58DD181-C758-4F63-906E-E493A7A4347A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58DD181-C758-4F63-906E-E493A7A4347A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8E567F-BF94-47A6-ABF1-59BF684D0471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8E567F-BF94-47A6-ABF1-59BF684D0471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8E567F-BF94-47A6-ABF1-59BF684D0471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8E567F-BF94-47A6-ABF1-59BF684D0471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC195EE0-4426-41A6-92A8-FCADA27721EC}
+	EndGlobalSection
+EndGlobal
